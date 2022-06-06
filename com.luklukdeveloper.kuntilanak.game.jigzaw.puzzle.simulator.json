@@ -1,0 +1,128 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"ADMOB",
+      "interval":"3",
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":""   ,
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak1.png"
+    },
+    {
+      "title": "Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak2.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak3.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak4.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak5.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak6.png"
+    },
+    {
+      "title": "Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak7.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak8.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak9.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak10.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak11.png"
+    },
+    {
+      "title": "Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak12.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak13.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak14.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak15.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak16.png"
+    },
+    {
+      "title": "Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak17.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak18.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak19.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak20.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak21.png"
+    },
+    {
+      "title": "Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak22.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image": "file:///android_asset/image/kuntilanak23.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak24.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak25.png"
+    },
+    {
+      "title":"Kuntilanak",
+      "image":"file:///android_asset/image/kuntilanak26.png"
+    }
+  ]
+}
